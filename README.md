@@ -33,4 +33,4 @@ We welcome contributions to this repository! If you find a bug in one of our dri
 When contributing, please follow our code of conduct and contribution guidelines.
 
 License
-This repository is licensed under the CC0-10 License. See the LICENSE file for more information.
+This repository is licensed under the CC0-1.0 License. See the LICENSE file for more information.
